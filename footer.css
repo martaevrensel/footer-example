@@ -1,3 +1,18 @@
 * {
   box-sizing: border-box;
 }
+
+footer {
+  background: url('https://orange.codeberryschool.com/content/images/project-assets/simple-footer.png') repeat center;
+  display: table;
+  display: table;
+  width: 100vw;
+  height: 8rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+.wrapper {
+  display: table-cell;
+  vertical-align: middle;
+}
